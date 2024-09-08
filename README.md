@@ -48,11 +48,6 @@ We welcome contributions and feedback to make this plugin even better. If you wa
 3. Commit your changes and push the branch to your fork.
 4. Create a pull request to merge your changes into the main repository.
 
-
-## View the Code
-
-To view the code, visit the [GitHub repository](https://github.com/Noor508/Minify).
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
