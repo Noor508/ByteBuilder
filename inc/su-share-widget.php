@@ -7,7 +7,7 @@
 /**
  * @Author: ByteBuilder
  * @Date:  2024-09-08
- * @Last Modified by:   Zeppelin
+ * @Last Modified by:   ByteBuilder
  * @Website: https://github.com/Noor508/Minify.git
  * @Email: noorulaeen88@gmail.com
  * @Last Modified time: 2024-09-08
