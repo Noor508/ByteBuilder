@@ -1,4 +1,4 @@
-# Share URL Bitly Plugin
+# Minify Plugin
 
 Welcome to th Minify  Plugin repository! This plugin, developed by Team ByteBuilder, leverages the Bitly URL shortener API to provide a seamless and efficient way to manage and share URLs directly from your WordPress website.
 
