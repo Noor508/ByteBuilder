@@ -11,14 +11,14 @@ Welcome to th Minify  Plugin repository! This plugin, developed by Team ByteBuil
 - **Compatibility**: 
   - PHP 8.3.8
   - Database MariaDB 10.4.32
-  - WordPress version 6.5.5
+  - WordPress version 6.6.1
 
 ## Installation Guide
 
 To install the Minify Plugin, follow these steps:
 
 1. **Download the Plugin ZIP File**
-   - Download the ZIP file from [this link] (https://github.com/Noor508/Minify)
+   - Download the ZIP file from [this link](https://github.com/Noor508/Minify)
 
 2. **Upload the Plugin to WordPress**
    - Go to your WordPress dashboard.
